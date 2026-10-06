@@ -1,0 +1,13 @@
+{
+  "name": "SpidaLabs Teams",
+  "description": "Premium internal communication platform for SpidaLabs Teams with global chat, private team spaces, secure voice and video rooms, and role-based access control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
